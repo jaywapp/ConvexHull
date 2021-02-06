@@ -1,0 +1,6 @@
+D:\Repository\ConvexHull\bin\Debug\ConvexHull.dll
+D:\Repository\ConvexHull\bin\Debug\ConvexHull.pdb
+D:\Repository\ConvexHull\obj\Debug\ConvexHull.csprojAssemblyReference.cache
+D:\Repository\ConvexHull\obj\Debug\ConvexHull.csproj.CoreCompileInputs.cache
+D:\Repository\ConvexHull\obj\Debug\ConvexHull.dll
+D:\Repository\ConvexHull\obj\Debug\ConvexHull.pdb
