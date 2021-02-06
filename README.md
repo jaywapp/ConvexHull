@@ -1,2 +1,2 @@
 # ConvexHull
-https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%A1%9D_%EA%BB%8D%EC%A7%88_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+https://www.notion.so/jaywapp/ConvexHull-bd65f9d29fe948c4a04c918f2ae6b40a
